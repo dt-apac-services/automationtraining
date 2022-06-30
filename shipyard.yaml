@@ -6,6 +6,6 @@ spec:
   stages:
     - name: "dev"
     sequences:
-    - name: "sequence1"
+      - name: "sequence1"
         tasks: 
-        - name: "sayhello"
+          - name: "sayhello"
