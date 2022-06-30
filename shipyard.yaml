@@ -5,7 +5,7 @@ metadata:
 spec:
   stages:
     - name: "dev"
-    sequences:
-      - name: "sequence1"
-        tasks: 
-          - name: "sayhello"
+      sequences:
+        - name: "sequence1"
+          tasks: 
+            - name: "sayhello"
